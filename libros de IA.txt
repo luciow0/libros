@@ -1,0 +1,26 @@
+https://alfaomegaeditor.com.ar/producto/data-mesh/
+https://alfaomegaeditor.com.ar/producto/machine-learning-con-pytorch-y-scikit-learn/
+https://alfaomegaeditor.com.ar/producto/machine-learning-y-deep-learning/
+https://alfaomegaeditor.com.ar/producto/libro-python-deep-learning/
+https://alfaomegaeditor.com.ar/producto/diseno-de-aplicaciones-mediante-el-uso-intensivo-de-datos/
+https://alfaomegaeditor.com.ar/producto/diseno-de-sistemas-de-machine-learning-un-proceso-iterativo-para-aplicaciones-listas-para-funcionar/
+https://alfaomegaeditor.com.ar/producto/big-data-machine-learning-y-data-science-en-python/
+https://alfaomegaeditor.com.ar/producto/sistemas-de-aprendizaje-automatico-2/
+https://alfaomegaeditor.com.ar/producto/libro-aprendizaje-profundo-deep-learning/
+https://alfaomegaeditor.com.ar/producto/fundamentos-de-ingenieria-de-datos-planifique-y-desarrolle-sistemas-robustos-de-datos/
+https://alfaomegaeditor.com.ar/producto/programacion-de-inteligencia-artificial-2/
+https://alfaomegaeditor.com.ar/producto/inteligencia-artificial-con-aplicaciones-a-la-ingenieria/
+https://alfaomegaeditor.com.ar/producto/libro-aprender-inteligencia-artificial-combinatorias/
+https://alfaomegaeditor.com.ar/producto/python-machine-learning/
+
+Ruta Sugerida de Lectura:
+
+    "Inteligencia Artificial – con Aplicaciones a la Ingeniería": Para establecer una base sólida en IA aplicada.
+    "Aprender Inteligencia Artificial, Combinatoria, Grafos y Algoritmos en Python con 100 ejercicios prácticos": Para reforzar conceptos de IA y programación en Python.
+    "Python Machine Learning": Para profundizar en técnicas de machine learning con Python.
+    "Machine Learning con PyTorch y Scikit-Learn": Para aprender implementaciones prácticas con bibliotecas específicas.
+    "Python Deep Learning": Para adentrarse en técnicas avanzadas de deep learning.
+    "Diseño de Sistemas de Machine Learning: Un Proceso Iterativo para Aplicaciones Listas para Funcionar": Para comprender el diseño efectivo de sistemas de ML.
+    "Fundamentos de Ingeniería de Datos: Planifique y Desarrolle Sistemas Robustos de Datos": Para adquirir habilidades en la gestión y arquitectura de datos.
+    "Data Mesh": Para explorar enfoques modernos en la gestión de datos.
+    "Big Data, Machine Learning y Data Science en Python": Para integrar conocimientos en un contexto práctico.
